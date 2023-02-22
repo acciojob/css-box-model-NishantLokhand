@@ -1,8 +1,8 @@
-.box {
+.box{
 	width: 300px;
-	margin: 20px;
 	border: 15px solid blue;
 	padding: 50px;
+	margin: 20px;
 	background-color: lightblue;
 }
 
